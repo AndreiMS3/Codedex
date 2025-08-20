@@ -1,0 +1,58 @@
+body{
+    background-color: #12181b;
+    text-align: center;
+    color: #cfcfcf
+}
+h2,h3, a{
+    color:#5bcbb1 ;
+}
+header{
+    background-image: url(https://img.freepik.com/free-photo/green-fern-plant-close-up_417767-618.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    
+}
+.header-container{
+    display: flex;
+    align-items: center;
+    gap: 42px;
+    margin: 0 auto;
+}
+#profile_pic img{
+    margin-top: 10%;
+    width: 250px;
+    height: 250px;
+    border-radius: 60%;
+    border: 4px solid #cfcfcf;
+}
+.header-info {
+   margin-bottom: 15px;
+}
+nav a {
+    margin-right: 20px;
+    font-weight: bold;
+    color: #cfcfcf
+}
+#stack{                     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: auto;
+    flex-wrap: wrap;
+}
+.stack-image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 10%;
+
+}
+.stack-image img{
+    width: 100%;
+    height: auto;
+    max-width: 40px;
+}
+
