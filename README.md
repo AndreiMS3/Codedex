@@ -11,10 +11,17 @@ This repository contains my solutions to exercises from different **Codédex** c
 - 💻 Command Line  
 - 🌲 Git & GitHub  
 - 🧩 Algorithms  
+- 🎨 CSS  
+- ⚡ JavaScript (Basic & Intermediate)  
 
 ## 🔄 Currently Learning
 - 🗄️ SQL  
-- 🎨 CSS  
+
+
+## ⏭️ Next on the list
+- ⚛️ React  
+- 🎨 Tailwind CSS  
+- ▲ Vercel  
 
 ## 🎯 About this repo
 Here you’ll find my solutions organized by course. Each folder corresponds to a Codédex track, and inside you’ll see the exercises I’ve worked on.  
